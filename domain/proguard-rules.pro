@@ -1,0 +1,3 @@
+-verbose
+-keep class me.kofesst.vkservices.** { *; }
+-keep,allowobfuscation,allowshrinking class kotlin.coroutines.Continuation
